@@ -1,0 +1,10 @@
+run npm install to install all the packages used in this application
+
+I have used all the git commands to create files, create branch, to commit, and to push.
+
+for running the react application run ---> npm start
+and the mock server is also been connected so it will also run with npm start only
+
+Operating System used for Development is "Windows";
+
+npm version : 6.14.11
