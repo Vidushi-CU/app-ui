@@ -1,0 +1,19 @@
+I am sorry I could not perform good in serviceIntegration part
+{
+    "components": [
+        {
+            "id": "c1",      // unique identifier for first box created
+            "name": "Source", // name of the box/component
+        },
+        {
+            "id": "c2",
+            "name": "Destination"
+        }
+    ],
+    "links": [
+        {
+            "src": "c1",    // source of the link
+            "dest": "c2"    // destination
+        }
+    ]
+}
