@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.component1{
+  height: 50vh;
+  width: 100%;
+  background-color: rgb(229, 192, 150);
+  font-style: italic;
+  font-size: 30px;
+}
+
+.component2{
+  height: 50vh;
+  width: 100%;
+  background-color: rgb(179, 229, 150);
+  font-style: italic;
+  font-size: 30px;
+}
